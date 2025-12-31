@@ -31,3 +31,11 @@ Attackers may disable logging or hide services.
 - Monitor logs regularly
 - Limit services
 - Enable alerts
+  
+## Detecting Log Deletion
+- Missing or empty log files
+- Gaps in timestamps
+- Missing rotated logs
+- Metadata inconsistencies
+- Evidence in other logs like wtmp/btmp
+
