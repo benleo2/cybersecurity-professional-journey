@@ -23,3 +23,9 @@ Attackers exploit misconfigured permissions to escalate privileges or read sensi
 - Use least privilege
 - Regular permission audits
 
+##Hands On Practice
+- Created test files and directories
+- Modified read/write/execute permissions
+- Observed access restrictions
+- Tested numeric permission modes
+- Changed file ownership using chown
