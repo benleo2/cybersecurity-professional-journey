@@ -6,7 +6,7 @@ Understand how attackers identify exposed services and why exposure matters.
 ## What I Did
 - Connected to a controlled lab environment
 - Identified exposed services on the target
-- Learned how attackers enumerate systems
+- Learned how attackers list systems
 
 ## What I Observed
 - Open services reveal attack surface
