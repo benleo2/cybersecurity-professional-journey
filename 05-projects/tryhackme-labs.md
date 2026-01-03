@@ -19,3 +19,17 @@ Understand how attackers identify exposed services and why exposure matters.
 
 ## Lessons Learned
 Attacks begin with exposure analysis, not exploitation.
+
+## TryHackMe – Network Services (FTP)
+
+### Service
+FTP (Port 21)
+
+### Risk
+Anonymous access allows unauthorized file access.
+
+### Attack Insight
+Attackers enumerate and test weak configurations.
+
+### Defensive Insight
+Disable anonymous access and restrict user permissions.
