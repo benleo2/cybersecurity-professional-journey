@@ -41,3 +41,26 @@ Injected input returned multiple database records.
 
 ## Lessons Learned
 Never allow user input to control database queries.
+
+# DVWA – XSS (Reflected) – Easy
+
+## Objective
+Understand how reflected user input can execute in the browser.
+
+## Vulnerability
+Reflected Cross-Site Scripting (XSS)
+
+## Attack Explanation
+User input was reflected in the HTTP response without proper encoding, allowing JavaScript execution.
+
+## Evidence
+Injected script executed in the browser.
+
+## Defense
+- Output encoding
+- Input validation
+- Content Security Policy
+
+## Lessons Learned
+Never trust reflected input in web responses.
+
