@@ -64,3 +64,27 @@ Injected script executed in the browser.
 ## Lessons Learned
 Never trust reflected input in web responses.
 
+# DVWA – Authentication Issues (Easy)
+
+## Objective
+Identify weaknesses in authentication logic and brute-force protection.
+
+## Vulnerability
+Weak Authentication / Brute Force
+
+## Attack Explanation
+The application allowed multiple login attempts without rate limiting or lockout.
+
+## Evidence
+Multiple authentication attempts were permitted without restriction.
+
+## Defense
+- Rate limiting
+- Account lockout
+- CAPTCHA
+- Generic error messages
+
+## Lessons Learned
+Authentication systems must be designed to resist abuse.
+
+
