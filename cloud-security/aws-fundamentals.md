@@ -25,3 +25,17 @@ Edge locations help mitigate DDoS and protect origin services.
 
 ## Security Insight
 Infrastructure resilience does not replace proper access control.
+
+## Core AWS Services – Security View
+
+### EC2
+Requires OS hardening, restricted network access, and key protection.
+
+### S3
+Improper permissions can lead to major data leaks.
+
+### VPC
+Network segmentation reduces attack blast radius.
+
+## Security Insight
+Cloud services are powerful but dangerous when misconfigured.
