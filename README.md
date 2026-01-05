@@ -19,6 +19,9 @@ Hi, I am an aspiring SOC Analyst with hands-on experience in:
 - DVWA attack & defense labs
 - Local attack–defense lab (Kali + Windows)
 
-## Goal
-To work as a SOC Analyst / Blue Team member and grow into Incident Response.
+## Learning Journey
+This repository documents my end-to-end cybersecurity learning journey,
+starting with SOC & Blue Team fundamentals and progressing toward
+Cloud Security Engineering.
+
 
