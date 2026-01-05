@@ -34,6 +34,23 @@ Requires OS hardening, restricted network access, and key protection.
 ### S3
 Improper permissions can lead to major data leaks.
 
+## IAM Fundamentals
+
+IAM controls identity and permissions in AWS.
+
+### Components
+- Users
+- Groups
+- Roles
+- Policies
+
+### Security Risks
+Over-permissive policies and lack of MFA cause most cloud breaches.
+
+### Security Insight
+Identity is the primary security boundary in cloud environments.
+
+
 ### VPC
 Network segmentation reduces attack blast radius.
 
